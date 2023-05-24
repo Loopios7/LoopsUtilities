@@ -4,5 +4,5 @@
 
 Added:
 
-- `#loopsutilities:uninstall` function
-- `loopsutilities:give/all_dyes` function
+- uninstall function
+- give/all_dyes function
